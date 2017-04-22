@@ -1,0 +1,13 @@
+.header {
+  padding: 80rpx;
+  line-height: 1;
+  text-align: center;
+}
+.title {
+  font-size: 52rpx;
+}
+.desc {
+  margin-top: 10rpx;
+  color: #888888;
+  font-size: 28rpx;
+}

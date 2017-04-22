@@ -1,0 +1,16 @@
+<import src="../common/head.wxml" />
+<import src="../common/foot.wxml" />
+<view class="container">
+    <template is="head" data="{{title: 'alert'}}"/>
+    
+    <view class="page-body">
+        <view class="page-body-wrapper">
+            <view class="head">
+                <view class="title">弹窗</view>
+                <view class="desc">弹窗弹窗弹窗弹窗</view>
+            </view>
+        </view>
+    </view>
+
+    <template is="foot"/>
+</view>
